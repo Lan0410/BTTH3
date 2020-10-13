@@ -24,9 +24,10 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
             ],
-            "scripts": []
+            "scripts": [
+            ]
           },
           "configurations": {
             "production": {
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "BTTH3"
+    }
+  },
+  "defaultProject": "BTTH3",
+  "cli": {
+    "analytics": "3832c070-1f70-4dfc-8a26-f58cbe52452a"
+  }
 }
